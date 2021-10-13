@@ -1,0 +1,14 @@
+﻿  Source.cpp
+D:\Practice DSA\Lab 01\File Handling\Read the information of a list of candidates\Source.cpp(6,20): warning C4018: '<': signed/unsigned mismatch
+D:\Practice DSA\Lab 01\File Handling\Read the information of a list of candidates\Source.cpp(20,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of a list of candidates\Source.cpp(21,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of a list of candidates\Source.cpp(22,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of a list of candidates\Source.cpp(23,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of a list of candidates\Source.cpp(24,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of a list of candidates\Source.cpp(25,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of a list of candidates\Source.cpp(26,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of a list of candidates\Source.cpp(27,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of a list of candidates\Source.cpp(28,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of a list of candidates\Source.cpp(29,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of a list of candidates\Source.cpp(30,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Read the information of a list of candidates.vcxproj -> D:\Practice DSA\Lab 01\File Handling\Debug\Read the information of a list of candidates.exe

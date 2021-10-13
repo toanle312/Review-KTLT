@@ -1,0 +1,36 @@
+﻿  Source.cpp
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(35,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(52,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(68,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(84,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(100,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(116,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(132,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(148,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(164,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(180,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(196,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(215,20): warning C4018: '<': signed/unsigned mismatch
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(229,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(230,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(231,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(232,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(233,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(234,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(235,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(236,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(237,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(238,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(239,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(262,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(263,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(264,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(265,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(266,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(267,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(268,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(269,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(270,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(271,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Read the information of one candidate\Source.cpp(272,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Read the information of one candidate.vcxproj -> D:\Practice DSA\Lab 01\File Handling\Debug\Read the information of one candidate.exe
