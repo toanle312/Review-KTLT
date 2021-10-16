@@ -1,0 +1,17 @@
+﻿  Examinee.cpp
+D:\Practice DSA\Lab 01\File Handling\Write the total score of candidates to file\Examinee.cpp(7,20): warning C4018: '<': signed/unsigned mismatch
+D:\Practice DSA\Lab 01\File Handling\Write the total score of candidates to file\Examinee.cpp(21,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Write the total score of candidates to file\Examinee.cpp(22,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Write the total score of candidates to file\Examinee.cpp(23,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Write the total score of candidates to file\Examinee.cpp(24,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Write the total score of candidates to file\Examinee.cpp(25,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Write the total score of candidates to file\Examinee.cpp(26,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Write the total score of candidates to file\Examinee.cpp(27,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Write the total score of candidates to file\Examinee.cpp(28,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Write the total score of candidates to file\Examinee.cpp(29,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Write the total score of candidates to file\Examinee.cpp(30,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Write the total score of candidates to file\Examinee.cpp(31,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Practice DSA\Lab 01\File Handling\Write the total score of candidates to file\Examinee.cpp(98,20): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Generating Code...
+  Write the total score of candidates to file.vcxproj -> D:\Practice DSA\Lab 01\File Handling\Debug\Write the total score of candidates to file.exe
